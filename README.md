@@ -16,7 +16,7 @@ Esta aplicación está diseñada principalmente para:
 - Gerentes de equipos
 
 ## Requisitos del sistema
-- Dispositivo Android (versión mínima por especificar)
+- Dispositivo Android (versión mínima: Android 5.0)
 - Conexión a internet para funcionalidades online
 
 ## Instalación
@@ -32,13 +32,12 @@ Esta aplicación está diseñada principalmente para:
 3. Una vez dentro, podrás comenzar a cargar y gestionar los jugadores de tu club.
 
 ## Soporte
-Si encuentras algún problema o tienes alguna pregunta, por favor abre un issue en este repositorio de GitHub.
+Si encuentras algún problema o tienes alguna pregunta, por favor contacta al desarrollador a través del siguiente correo electrónico:
+
+[Tu dirección de correo electrónico aquí]
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir al desarrollo de futbol_app, por favor haz un fork del repositorio y envía un pull request con tus cambios.
-
-## Licencia
-DERECHOS RESERVADOS PARA EL AUTOR DE LA APP.
 
 ---
 
