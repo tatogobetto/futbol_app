@@ -3,6 +3,8 @@
 ## Descarga
 Puedes descargar la última versión de futbol_app [aquí](https://github.com/tatogobetto/futbol_app/releases/download/v1.1.0/futbolapp.apk).
 
+![Captura de pantalla de la pantalla principal](https://github.com/tatogobetto/futbol_app/blob/main/Screenshot_20240627-135713.jpg)
+
 ## Descripción
 futbol_app es una aplicación diseñada específicamente para entrenadores de fútbol, permitiéndoles gestionar eficientemente los jugadores de su club. Con un sistema de login personalizado y diferentes niveles de usuario, esta aplicación ofrece una solución completa para la gestión de equipos de fútbol.
 
